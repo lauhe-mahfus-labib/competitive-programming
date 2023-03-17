@@ -19,6 +19,5 @@ vector<int> bfs(int V, vector<int> adj[]) {
             }
         }
     }
-    
     return path;
 }
